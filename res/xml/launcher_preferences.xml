@@ -50,6 +50,6 @@
         android:entries="@array/icon_shape_override_paths_names"
         android:entryValues="@array/icon_shape_override_paths_values"
         android:defaultValue=""
-        android:persistent="false" />
+        android:persistent="true" />
 
 </PreferenceScreen>
